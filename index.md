@@ -27,9 +27,7 @@ Innleveringsplanen gir oppgaver, frister og ressurser knyttet til obligatoriske 
   - Telefon: +47 77 64 60 92
   -->
 - <strong>[Mikko Moilanen](https://en.uit.no/ansatte/person?p_document_id=200602)</strong> (fagansvar) - professor i samfunnsøkonomi
-  - Epost: mikko.moilanen@uit.no
-  - Telefon: +47 77 62 32 02
-
+ 
 ## Administrative spørsmål
 
 For henvendelser av administrativ art, send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
