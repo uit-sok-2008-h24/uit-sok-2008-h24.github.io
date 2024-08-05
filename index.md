@@ -18,7 +18,7 @@ Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, fagl�
 Innleveringsplanen gir oppgaver, frister og ressurser knyttet til obligatoriske innleveringer.  
 
 - [Forelesnings- og seminarplan](forelesningsplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}
+- [Innleveringsplan](mappeevaluering.html){:target="blank"}
 - [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 ## Faglærerinfo
