@@ -9,7 +9,7 @@ Forelesningene vil introdusere et tema. Videoforelesningene går igjennom teoret
 
 Du velger selv når du ser på videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikt tema sammen med forelesningen på samme tema da videoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
 
-**NB! Datoer for fysiske forelesninger og seminar er preliminære og kan endres.** For oppdatert skjema, se [Timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module[]=SOK-2008-1#week-33)
+**NB! Datoer for fysiske forelesninger og seminar er preliminære og kan endres.** For oppdatert skjema, se [Timeplan.uit.no](https://timeplan.uit.no/emne_timeplan.php?sem=24h&sem=24h&module[]=SOK-2008-1#week-32)
 * Undervisningstype:
   * F = Forelesing
   * S = Seminar
