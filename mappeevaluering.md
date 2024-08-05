@@ -3,9 +3,9 @@
 <!-- Gjør endringer under her -->
 
 # Mappeevaluering
-Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: **flervalgtest** (multiple choice) og **utfordringer** (skriftlige innleveringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
+Mappeevalueringen består av 6 innleveringer. Det er to type innleveringer: tre **flervalgstester** (multiple choice) og tre **utfordringer** (skriftlige innleveringer). Hver innlevering er knyttet til en eller flere moduler (eller tema) i kurset, og til spesielle kapitler i pensumbøkene.
 
-Enhver innlevering kan gi 0 til 2 poeng. Totalt kan altså innleveringene gi 12 poeng (6 innleveringer à 2 poeng). Karakteren på mappen avhenger total poeng på alle innleveringer. 
+Enhver **skriftlig innlevering** (utfordring) kan gi 0 til 3 poeng. Enhver **flervalgstest** kan gi 0 til 1 poeng. Totalt kan altså innleveringene gi 12 poeng. Karakteren på mappen avhenger total poeng på alle innleveringer. 
 
 Innleveringene skal skje individuelt. 
 
@@ -15,17 +15,17 @@ Alle innleveringer har frist på en fredag kl 16:00.
 
 | **Innlevering** | **Frist** |
 | ------------- |------- |
-| [Innlevering 1 - Flervalgtest](innlevering1.md) | <span style="color:OrangeRed;">8.  september 16:00</span>  |
-| [Innlevering 2 - Utfordring 1](innlevering2.md) | <span style="color:OrangeRed;">22. september 16:00</span> |
-| [Innlevering 3 - Flervalgtest](innlevering3.md) | <span style="color:OrangeRed;">13.  oktober 16:00</span> |
-| [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">20. oktober 16:00</span> |
-| [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">3.   november 16:00</span> |
-| [Innlevering 6 - Flervalgtest](innlevering6.md) | <span style="color:OrangeRed;">17.  november 16:00</span>  |
+| [Innlevering 1 - Flervalgtest](innlevering1.md) | <span style="color:OrangeRed;">6.  september 16:00</span>  |
+| [Innlevering 2 - Utfordring 1](innlevering2.md) | <span style="color:OrangeRed;">20. september 16:00</span> |
+| [Innlevering 3 - Flervalgtest](innlevering3.md) | <span style="color:OrangeRed;">11.  oktober 16:00</span> |
+| [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">18. oktober 16:00</span> |
+| [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">1.   november 16:00</span> |
+| [Innlevering 6 - Flervalgtest](innlevering6.md) | <span style="color:OrangeRed;">15.  november 16:00</span>  |
 
 ## Flervalgtester (innlevering 1, 3, og 6)
 Flervalgtestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
-Hvert flervalgstest vil finnes tilgjengelig under 8 timer (08:00-16:00). Du kan altså velge når du tar testen i løpet av en dag. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter per spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
+Hvert flervalgstest vil finnes tilgjengelig i fem dager (mandag kl. 08:00- fredag k. 16:00). Du kan velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. **Du kan ta flervalgstesten bare én gang**. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter pr. spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
 
 ### Innlevering av flervalgstester
 Innleveringen skal skje individuelt. 
@@ -34,11 +34,11 @@ Flervalgstestene vil enten bli gjennomført i Canvas.
 ### Evaluering av flervalgstester
 Poengen til flervalgtestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
 
-Alle spørsmål på flervalgtestene på sok-2008 har 4 svarsalternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25%. Regeln som blir brukt til å beregne poeng bestraffer derfor feilsvar med 25%. Dersom du ikke aner hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjete. 
+Alle spørsmål på flervalgtestene på sok-2008 har fire svaralternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25 %. Ligningen som blir brukt til å beregne poeng straffer derfor feilsvar med 25 prosent. Dersom du ikke vet hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjette. 
 
 ## Utfordringer (innlevering 2, 4, og 5)
 Hver utfordring vil ha flere deloppgaver. Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
-For alle oppgaver gjelder at du må gi økonomisk intuisjon (forklaring) til dine resultater. 
+For alle oppgaver gjelder at du må gi økonomisk intuisjon til dine svar dvs. sammenhengene på samfunnsøkponomiske mekanismer bak dine resultater klargjøres og forklares. 
 
 Etter hver innlevering vil vi avsette tid til tilbakemelding på innleveringene, se [forelesningsplanen](forelesningsplan.md)
 
@@ -51,18 +51,18 @@ Utfodringene skal leveres i Canvas. Kode og redegjørelser for bruk av kunstig i
 Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
  
 ### Evaluering av utfordringer
-Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få 0.5 og 1.5 poeng på utfordringene.
+Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få halve og hele poeng på utfordringene. Hver innlevering kan gi maks 3 poeng.
 
-**NB: Hver enkel av de 3 utfordingene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller felaktig, er det fullt mulig å få null poeng på innleveringen.**
+**NB: Hver enkel av de tre utfordringene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller feilaktig, er det fullt mulig å få null poeng på innleveringen.**
 
 **Tabell 2.** Regel for poengsetting av innleveringsoppgaver
 
 | Poeng | Beskrivelse |
 | ----- |------------ |
-| 2 | Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort korrekt og enkel å følge. Det finnes ikke store feil. Kode er lastet opp på Github og lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgave og kode er ryddig skreven.|
-| 1 | Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller så er nesten alle spørsmål besvarte OG det gis en god gjennomgang av problemer med ubesvarte oppgaver. Det går å følge resonnementene. Det gis økonomisk intuisjon. Det kan finnes små feil i matematikken, men ikke store feil. Kode er lastet opp på Github og lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgaven er ryddig skreven. |
-| 0 | Ikke tilstrekkelig godt gjennomført. Ikke alle spørsmål er besvarte og studenten gir ikke en god gjennomgang av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen. |
-
+| 3	| Fremragende gjennomført. Alle spørsmål er fullstendig besvarte med innsikt og utmerket klarhet. Det er svært enkelt å følge resonnementene. Økonomisk intuisjon gis grundig og konsistent til alle oppgaver. Matematikken er korrekt uten feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Innleveringen er svært ryddig og profesjonelt skrevet.|
+| 2 |	Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort sett korrekt og enkel å følge. Det finnes ikke store feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Innleveringen er ryddig skrevet.|
+| 1	| Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller nesten alle spørsmål besvarte OG det gis en god forklaring av problemer med ubesvarte oppgaver. Det går an å følge resonnementene. Det gis tilstrekkelig god økonomisk intuisjon. Det kan finnes små feil i matematikken, men ikke store feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgaven er ryddig skrevet.|
+| 0	| Ikke tilstrekkelig godt gjennomført. Alle spørsmål er ikke besvarte og studenten gir ikke en god gjennomgang og forklaring av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen.|
 
 ### Plagiat og juks
 
@@ -71,38 +71,34 @@ Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student sk
 ### Bruk av kunstig intelligens (KI)
 Hver innlevering **skal** inneholde en deklarasjon om bruk av KI. Deklarasjonen skal settes inn i et appendiks til oppgaven. **Du må ha med deklarasjonen selv om du ikke har brukt KI**.
 
-Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Regegjørelsen skal leveres som et appendiks til oppgaven. Dersom du ikke gjør rede for ditt bruk av KI:n, vil oppdekket bruk ses som juks. Du er selv ansvarlig for å sjekke innholdet i besvarelsen fra KI-verktøyet (ikke alt er riktig!), og du må passe på at besvarelsen din flyter godt (det vil trekke ned dersom sensoren ser tydelige forskjeller mellom egen tekst og tekst som er generert av KI).
+Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken KI du brukte. Du må også gjøre rede for de spørsmål du stilte til KI:n, hvilket svar du fikk, og i hvilken grad du endret svaret/koden fra KI:n. Redegjørelsen skal leveres som et appendiks til oppgaven. **Dersom du ikke gjør rede for ditt bruk av KI, vil oppdekket bruk anses som juks**. Du er selv ansvarlig for å sjekke innholdet i besvarelsen fra KI-verktøyet (ikke alt er riktig!), og du må passe på at besvarelsen din flyter godt (det vil trekke ned dersom sensoren ser tydelige forskjeller mellom egen tekst og tekst som er generert av KI).
 
 ### Tips og triks for hvordan du skriver en god besvarelse
 
 #### Generelle tips
 
 1. Skriv kortfattet og tydelig
-2. Gå igjennom språket. Oppgaven skal skrives på godt akademisk språk, ikke i taleform.
+2. Gå gjennom språket. Oppgaven skal skrives på godt akademisk språk, ikke i taleform.
 3. Ha samme inndeling på ditt svar som det er i oppgaven.
 4. Det er lov å bruke bilder på håndtegnede grafer og ligninger men jeg anbefaler å prøve å lage både ligninger og grafer digitalt. Hvis du bruker håndtegnede grafer eller ligninger, se til at både grafen i seg selv, og bildet av grafen er svært tydelig. Hvis jeg ikke kan se hva grafen viser kan jeg ikke gi poeng. 
 5. Definere dine symboler hvis du bruker andre symboler enn de vi bruker under kurset.
 6. Referere i teksten til de symboler som du analyserer, og beskriv dem i ord. F eks, en økning i arbeidstilbudet ($L^s$) fører til at…
 7. Forklare dine ligninger og utledninger. Det er viktig at det går å følge dine utledninger og beregninger. 
-8. Gi alltid økonomisk intuisjon (forklaring til dine svar). Det å skrive "Kurven skifter og vi går ifra A til B" er ikke tilstrekkelig. Et svar som gir økonomisk intuisjon forklarer effekten i økonomiske termer, f eks.; "Hvis innvandringen øker vil dette føre til at mengden arbeidere som er villige til å jobbe til en gitt timelønn øker, arbeidstilbudet ($L^s$) øker. Ved likevektslønna $w_0$ finnes det nå arbeidere som ønsker jobb men som ikke har jobb. Dette fører til en press nedåt på lønna. Når lønna synker finnes det flere bedrifter som er villige å ansette. Sysselsettingen øker. Den nye likevekts lønna gis av $w_1$. Sysselsettingen i den nye likvekten gis av $L_1$" 
+8. Gi alltid samfunnsøkonomisk forklaring til dine svar. Det å skrive "Kurven skifter og vi går fra A til B" er ikke tilstrekkelig. Du skal forklare mekanismene i økonomiske termer, f eks.; "Hvis innvandringen øker vil dette føre til at mengden arbeidere som er villige til å jobbe til en gitt timelønn øker, arbeidstilbudet ($L^s$) øker. Ved likevektslønna $w_0$ finnes det nå arbeidere som ønsker jobb men som ikke har jobb. Dette fører til en press nedåt på lønna. Når lønna synker finnes det flere bedrifter som er villige å ansette. Sysselsettingen øker. Den nye likevekts lønna gis av $w_1$. Sysselsettingen i den nye likvekten gis av $L_1$" 
 
 #### Format
 Du velger selv i hvilket format du ønsker å lage oppgaven. Det er lov å bruke Word, eller andre standard ordbehandlingsprogrammer. Dersom du ønsker å skrive oppgaven i Quarto finner du støtte til dette [her](https://quarto.org/).
 
 #### Ligninger
-Det er mulig å skrive ligninger i de fleste ordbehandlingsprogrammer. I word velger du «insert» og deretter «equation». Du får da opp en boks i teksten og en meny med symboler og funksjoner. Et tips er at «underscore» etter et tegn gir subscript hvis du trykker på mellomslag etterpå , og tegnet «’» gir superscript. 
-
-Du finner flere tips og triks her:
-* [Kort-kommandoer til Microsoft Equation Editor](https://mathiho.sitehost.iu.edu/doc/equation-editor-shortcut-commands.pdf)
+Det er mulig å skrive ligninger i Quarto ogde fleste ordbehandlingsprogrammer.  
 
 #### Figurer og grafer
-Det går å lage figurer ved bruk av en rekke verktøy, f.eks Rstudio og Python. Det er lov å tegne figurer i ved bruk av f.eks Word eller Power-point. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
+Det går å lage figurer ved bruk av en rekke verktøy, f.eks RStudio og Python. Det er lov å tegne figurer i ved bruk av f.eks Word eller Power-point. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
 
-I noen oppgaver på kurset vil du lage grafer i R ved bruk av empiriske data. Når du laget en graf velger du først «eksportere» og deretter enten «save as image» eller «save as pdf». Du kan deretter lime in bildet i ditt Word-dokument. 
 
 #### Tabeller
 
-Det går å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel og R. Det går å kopiere tabeller fra Excel og R og lime inn i Word. Hvis du er flink i f eks LaTeX så går det å skrive kode i R som lager TeX filer. 
+Det går å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel, Python og R. Det går å kopiere tabeller fra Excel og R og lime inn i Word. Hvis du er flink i f eks LaTeX så går det å skrive kode i R som lager TeX filer. 
 
 
 #### Referanser
