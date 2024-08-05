@@ -2,7 +2,7 @@
 
 
 ## Kursbeskrivelse 
-På innføringskursene i mikroøkonomien lærer man at samfunnets velferd blir maksimert under fullkommen konkurranse. I virkeligheten er de fleste markedene ufullkomne og preget av markedssvikt. Markedssvikt sammen med fordelingshensyn er årsaker til at offentlig sektor har en stor rolle i moderne økonomier.  De nordiske landene har store offentlige sektorer og høyt skattenivå, men også veldig høy levestandard. Dette forklares med den nordiske samfunnsmodellen. Sentrale trekk ved modellen er økonomisk styring, offentlig velferdspolitikk, og organisert arbeidsliv. 
+På innføringskursene i mikroøkonomien lærer du at samfunnets velferd blir maksimert under fullkommen konkurranse. I virkeligheten er de fleste markedene ufullkomne og preget av markedssvikt. Markedssvikt sammen med fordelingshensyn er årsaker til at offentlig sektor har en stor rolle i moderne økonomier.  De nordiske landene har store offentlige sektorer og høyt skattenivå, men også veldig høy levestandard. Dette forklares med den nordiske samfunnsmodellen. Sentrale trekk ved modellen er økonomisk styring, offentlig velferdspolitikk, og organisert arbeidsliv. 
 
 
 Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentrale trekk ved den nordiske samfunnsmodellen, og å gi en forståelse av offentlig inngrep i økonomien og innblikk i velferdsøkonomiske problemstillinger. Det vil bli lagt spesiell vekt på de teoretiske argumentene bak velferdsordningenes innretning og omfang og på de insentivproblemene som oppstår i skjæringspunktet mellom velferdsstat og marked.
@@ -10,7 +10,7 @@ Formålet med kurset SOK-2008 «Den Nordiske modellen» er å gi innsikt i sentr
 ## Kursplan  
 
 Undervisningen på SOK-2008 består av fysiske forelesninger, videoforelesninger og fysiske seminarer. 
-Forelesningene vil introdusere et tema. Videoforelesningene går igjennom teoretisk analyse (grafisk og matematisk). På seminarene vil vi jobbe med oppgaver knyttet til de forskjellige temaene. 
+Forelesningene vil introdusere et tema. Videoforelesningene går igjennom teoretisk analyse (grafisk og/eller matematisk). På seminarene vil vi jobbe med oppgaver knyttet til de forskjellige temaene. 
 
 Du velger selv når du ser på videoforelesningene, men vi anbefaler at du ser på videoforelesningene som hører til et spesifikkt tema sammen med forelesningen på samme tema da vidoene vil hjelpe deg å løse oppgavene som blir brukt på seminarene og til å løse innleveringsoppgavene. 
 
@@ -22,10 +22,11 @@ Innleveringsplanen gir oppgaver, frister og ressurser knyttet til obligatoriske 
 - [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 ## Faglærerinfo
-- <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
+<!--- <strong>[Andrea Mannberg](https://uit.no/ansatte/andrea.mannberg)</strong> (Fagansvar) - professor i samfunnsøkonomi
   - Epost: andrea.mannberg@uit.no
   - Telefon: +47 77 64 60 92
-- <strong>[Mikko Moilanen](https://en.uit.no/ansatte/person?p_document_id=200602)</strong> - professor i samfunnsøkonomi
+  -->
+- <strong>[Mikko Moilanen](https://en.uit.no/ansatte/person?p_document_id=200602)</strong> (fagansvar) - professor i samfunnsøkonomi
   - Epost: mikko.moilanen@uit.no
   - Telefon: +47 77 62 32 02
 
