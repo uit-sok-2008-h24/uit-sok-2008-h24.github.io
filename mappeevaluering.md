@@ -106,13 +106,6 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
   </tr>
 </table>
 
-| Poeng | Beskrivelse |
-| ----- |------------ |
-| 3	| <ul><li>Oppgaven inneholder korrekte eller veldig nært korrekte løsninger på alle deloppgaver </li><li>Dersom det er feil og mangler er disse små og uviktige </li><li>Oppgaven er veldig godt skrevet og strukturert, og det er veldig enkelt å lese oppgaven og forstå innholdet </li><li>Du viser at du har veldig god forståelse for hva du har gjort </li></ul> |
-| 2 |	<ul><li> Oppgaven inneholder løsninger på alle deloppgaver, og de fleste løsningene er korrekte eller veldig nært korrekte </li><li>Det er noen feil i noen løsninger, men disse er ikke fundamentale (vitner ikke om store mangler i forståelse) </li><li>Oppgaven er godt skrevet og strukturert, og det er enkelt å lese oppgaven og forstå innholdet </li><li>Du viser at du har god forståelse for hva du har gjort i de fleste oppgavene. Det er ikke tegn på at du har alvorlige mangler i forståelse </li></ul>|
-| 1	| <ul><li>Oppgaven inneholder løsninger på alle deloppgaver, men...</li><li> Noen av løsningene har feil som vitner om alvorlig mangel i forståelse, eller… </li><li>Det er vanskelig å lese og forstå hva du har gjort </li></ul>|
-| 0	| <ul><li>Oppgaven  mangler løsninger på noen oppgaver, eller </li><li>Flere av løsningene vitner om alvorlige mangler i forståelse </li><li>Det går ikke an å følge hva studentene gjør og hvorfor, eller </li><li>Kode og/eller bruk av KI blir ikke gjort rede for </li></ul>|
-
 ### Plagiat og juks
 
 Det er tillatt å arbeide med oppgavene sammen med andre. Hver enkelt student skal likvel skrive og levere inn sine utfordringer individuelt. Med andre ord må hver enkelt student produsere sin egen tekst, figurer, koder og så videre. Det er ikke lov å levere inn helt eller nesten identiske oppgaver. Det er altså ikke lov å kun bytte ut noen ord i sin innlevering. Vi bruker URKUND for å sjekke for plagiering. Vi er bevisst på at oppgavene vil være relativt lik og vil ta høyde for dette når vi evaluerer resultatene fra URKUND. 
