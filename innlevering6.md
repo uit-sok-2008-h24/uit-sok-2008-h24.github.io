@@ -5,9 +5,8 @@
 # Flervalgstest 3
 ### <span style="color:OrangeRed;"> Frist: 17. november kl 16.00 </span>
 
-Denne testen innholder spørsmål knyttet til **tema 4 og tema 5**. Hvert spørsmål har 1 riktig svar, og 3 feilsvar.
-Makspoeng på testen er 2 poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poengen blir beregnet etter regeln:  **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
-
+Denne testen innholder spørsmål knyttet til **tema 4 og tema 5**. Hvert spørsmål har ett riktig svar, og tre feilsvar.
+Makspoeng på testen er ett poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poeng blir beregnet etter regelen:  **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poengene blir avrundet til to desimaler.
 Testen skal tas individuelt. 
 
 Lykke til!
@@ -16,8 +15,8 @@ Lykke til!
 
 Litteratur:
 
-- Barr. Kapittel 4, 6, 12 og 9
-- Boeri og van Ours. Kapittel 9, 12-13
+- Barr. Kapittel 4, 6, 9 og 12
+- Boeri og van Ours. Kapittel 9, 12
 - NOU 2011:7. Kapittel: 3, 4 og 5
 
 [Forelesningsnotater tema 4](forelesninger.md#f_t4)
