@@ -3,30 +3,31 @@
 <!-- Gjør endringer under her -->
 
 # Utfordring 1
-## Innlevering
-Innleveringene skal skje individuelt.
-
-Utfodringene skal leveres i Canvas. **Kode og redegjørelser for bruk av kunstig intelligens leveres som appendiks** i oppgaven (enten i et separat eller i samme dokument). 
-
-### <span style="color:OrangeRed;"> Frist: 22. september kl 16:00 </span>
-
-**NB: Det er utrolig viktig at du bruker følgende navn på din innlevering! "[ditt kandidatnummer]sok_2008_h23_utf1"**
-Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
-
-Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
-Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
+## Generell informasjon
+- Fristen for innlevering er den 20. september kl 16:00
+- Oppgaven kan gi maks 3 poeng 
+- For å kvalifisere til poeng må dere ha prøvd å løse alle oppgavene. Innleveringer med blanke svar vil ikke bli evaluert.
+- De ulike deloppgavene teller nødvendigvis ikke likt til totalpoeng.
+- Oppgaven skal leveres inn skriftlig i Canvas.
+- Filen skal ha navn med følgende struktur: kandidatnrstudent1_kandidatnrstudent2_utf1.pdf (eller docx)
+- Oppgaven skal leveres som word-fil eller pdf-fil. Filer som ikke er rendret vil behandlet som blank innlevering.
+- Koden skal leveres i et separat dokumentet (qmd-fil er ok) eller som appendiks til oppgaven.
+- Bruk av KI skal rapporteres i en appendiks til oppgaven. Sjekk at eventuelle lenker fungerer.
+- Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Foreleseren på kurset vil være tilstede for å svare på spørsmål. 
 
 ## Førberedelser og støtte
 
 Litteratur:
 
-- Barr. Kapittel 3, 9-11
-- Boeri og van Ours. Kapittel 5 og 7
+- Barr. Kapittel 3, 4 og 9-11
+- Boeri og van Ours. Kapittel 7
 
 [Forelesningsnotater](forelesninger.md#f_t1)
 
 [Videoer](video.md#v_t1)
 
+## Oppgaene er ennå ikke publisert. 
+<!--
 ## Oppgaver
 ### Utfordring 1.1
 
@@ -110,3 +111,4 @@ Hvis du bruker materiale utenfor pensum skal du bruke referanser, både i tekste
 | Bøker | Lucas, R. E. (1976). Econometric Policy Evaluation: A Critique, in Brunner, K., and Metzer, A (eds), *The Phillips Curve and Labor Markets*, Carnegie Rochester Conference Series, New York, North Holland, pp. 19-46 |
 | Artikler i aviser | Weisman, J. (2015). Deal Reached on Fast-Track Authority for Obama on Trade Accord. *The New York Times*, p.A1 |
 | Artikler fra Internett | Messer, L. (2015). 'Fancy Nancy' Optioned by Disney Junior. [online] ABC News. Available at: http://abcnews.go.com/Entertainment/fancy-nancy-optioned-disney-junior-2017/story?id=29942496#.VRWbWJwmbs0.twitter (Accessed 31 Mar. 2015)|
+-->
