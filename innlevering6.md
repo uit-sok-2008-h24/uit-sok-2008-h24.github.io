@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 # Flervalgstest 3
-### <span style="color:OrangeRed;"> Frist: 17. november kl 16.00 </span>
+### <span style="color:OrangeRed;"> Frist: 15. november kl 16.00 </span>
 
 Denne testen innholder spørsmål knyttet til **tema 4 og tema 5**. Hvert spørsmål har ett riktig svar, og tre feilsvar.
 Makspoeng på testen er ett poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poeng blir beregnet etter regelen:  **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poengene blir avrundet til to desimaler.
