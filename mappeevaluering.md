@@ -59,9 +59,13 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
 
 | Poeng | Beskrivelse |
 | ----- |------------ |
-| 3	| <ul><li> Oppgaven inneholder korrekte eller veldig nært korrekte løsninger på alle deloppgaver </li><li> Dersom det er feil og mangler er disse små og uviktige </li><li> Det er enkelt å lese oppgaven og forstå hva studentene har gjort </li><li> Studentene viser at de har god forståelse for hva de har gjort </li></ul> |
-| 2 |	Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort sett korrekt og enkel å følge. Det finnes ikke store feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Innleveringen er ryddig skrevet.|
-| 1	| Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller nesten alle spørsmål besvarte OG det gis en god forklaring av problemer med ubesvarte oppgaver. Det går an å følge resonnementene. Det gis tilstrekkelig god økonomisk intuisjon. Det kan finnes små feil i matematikken, men ikke store feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgaven er ryddig skrevet.|
+| 3	| <ul><li> Oppgaven inneholder korrekte eller veldig nært korrekte løsninger på alle deloppgaver </li><li> Dersom det er feil og mangler er disse små og uviktige </li><li> Oppgaven er veldig godt skrevet og strukturert, og det er veldig enkelt å lese oppgaven og forstå innholdet </li><li> Du viser at du har veldig god forståelse for hva du har gjort </li></ul> |
+| 2 |	<ul><li> Oppgaven inneholder løsninger på alle deloppgaver, og de fleste løsningene er korrekte eller veldig nært korrekte
+</li><li> Det er noen feil i noen løsninger, men disse er ikke fundamentale (vitner ikke om store mangler i forståelse)
+</li><li> Oppgaven er godt skrevet og strukturert, og det er enkelt å lese oppgaven og forstå innholdet
+</li><li> Du viser at du har god forståelse for hva du har gjort i de fleste oppgavene. Det er ikke tegn på at du har alvorlige mangler i forståelse </li></ul>|
+| 1	| <ul><li> Oppgaven inneholder løsninger på alle deloppgaver, men..
+</li></ul></li><li> Noen av løsningene har feil som vitner om alvorlig mangel i forståelse, eller… </li></ul></li><li> Det er vanskelig å lese og forstå hva studentene har gjort|
 | 0	| Ikke tilstrekkelig godt gjennomført. Alle spørsmål er ikke besvarte og studenten gir ikke en god gjennomgang og forklaring av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen.|
 
 ### Plagiat og juks
