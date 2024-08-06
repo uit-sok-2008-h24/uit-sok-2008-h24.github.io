@@ -26,7 +26,7 @@ Litteratur:
 
 [Videoer](video.md#v_t1)
 
-## Oppgavene er ennå ikke publisert. 
+## <span style="color:red;">Oppgavene er ennå ikke publisert.</span> 
 <!--
 ## Oppgaver
 ### Utfordring 1.1
