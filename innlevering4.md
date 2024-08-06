@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 # Utfordring 2
-### <span style="color:OrangeRed;"> Frist: 20. oktober kl 16:00 </span>
+### <span style="color:OrangeRed;"> Frist: 18. oktober kl 16:00 </span>
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
 Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
 
