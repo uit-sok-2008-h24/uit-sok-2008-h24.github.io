@@ -59,7 +59,10 @@ Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig
 
 | Poeng | Beskrivelse |
 | ----- |------------ |
-| 3	| Fremragende gjennomført. Alle spørsmål er fullstendig besvarte med innsikt og utmerket klarhet. Det er svært enkelt å følge resonnementene. Økonomisk intuisjon gis grundig og konsistent til alle oppgaver. Matematikken er korrekt uten feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Innleveringen er svært ryddig og profesjonelt skrevet.|
+| 3	| • Oppgaven inneholder korrekte eller veldig nært korrekte løsninger på alle deloppgaver
+• Dersom det er feil og mangler er disse små og uviktige
+• Det er enkelt å lese oppgaven og forstå hva studentene har gjort
+• Studentene viser at de har god forståelse for hva de har gjort. |
 | 2 |	Svært godt gjennomført. Alle spørsmål er fullstendig besvarte. Det er enkelt å følge resonnementene. Det gis god økonomisk intuisjon til alle oppgaver. Matematikken er i stort sett korrekt og enkel å følge. Det finnes ikke store feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Innleveringen er ryddig skrevet.|
 | 1	| Tilstrekkelig godt gjennomført. Alle spørsmål er besvarte eller nesten alle spørsmål besvarte OG det gis en god forklaring av problemer med ubesvarte oppgaver. Det går an å følge resonnementene. Det gis tilstrekkelig god økonomisk intuisjon. Det kan finnes små feil i matematikken, men ikke store feil. Kode er lastet opp eller lagt til som appendiks til i oppgaven. Studenten har gjort rede for bruk av KI. Oppgaven er ryddig skrevet.|
 | 0	| Ikke tilstrekkelig godt gjennomført. Alle spørsmål er ikke besvarte og studenten gir ikke en god gjennomgang og forklaring av problemer med ubesvarte oppgaver ELLER det er svært vanskelig å følge resonnementene i oppgaven ELLER det gis ikke økonomisk intuisjon ELLER det finnes store feil i matematikken, og/eller den økonomiske intuisjonen.|
