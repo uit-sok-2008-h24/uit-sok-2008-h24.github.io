@@ -3,7 +3,7 @@
 <!-- Gjør endringer under her -->
 
 # Utfordring 3
-### <span style="color:OrangeRed;"> Frist: 3. november kl 16:00 </span>
+### <span style="color:OrangeRed;"> Frist: 1. november kl 16:00 </span>
 Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
 Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
 
@@ -18,6 +18,8 @@ Litteratur:
 
 [Videoer](video.md#v_t4)
 
+## <span style="color:red;">Oppgavene er ennå ikke publisert.</span>
+<!--
 # Oppgaver
 ## Utfordring 3.1
 ### 3.1.1
@@ -138,3 +140,4 @@ Hvis du bruker materiale utenfor pensum skal du bruke referanser, både i tekste
 | Bøker | Lucas, R. E. (1976). Econometric Policy Evaluation: A Critique, in Brunner, K., and Metzer, A (eds), *The Phillips Curve and Labor Markets*, Carnegie Rochester Conference Series, New York, North Holland, pp. 19-46 |
 | Artikler i aviser | Weisman, J. (2015). Deal Reached on Fast-Track Authority for Obama on Trade Accord. *The New York Times*, p.A1 |
 | Artikler fra Internett | Messer, L. (2015). 'Fancy Nancy' Optioned by Disney Junior. [online] ABC News. Available at: http://abcnews.go.com/Entertainment/fancy-nancy-optioned-disney-junior-2017/story?id=29942496#.VRWbWJwmbs0.twitter (Accessed 31 Mar. 2015)|
+-->
