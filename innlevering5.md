@@ -3,9 +3,17 @@
 <!-- Gjør endringer under her -->
 
 # Utfordring 3
-### <span style="color:OrangeRed;"> Frist: 1. november kl 16:00 </span>
-Du finner detaljert informasjon og tips om hvordan skrive en god besvarelse nederst på denne siden.
-Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Forelesere på kurset vil være tilstede for å svare på spørsmål. 
+## Generell informasjon
+- <span style="color:OrangeRed;"> Fristen for innlevering er 01. november kl. 16:00 </span>
+- Oppgaven kan gi maks 3 poeng
+- For å kvalifisere til poeng må dere ha prøvd å løse alle oppgavene. Innleveringer med blanke svar vil ikke bli evaluert.
+- De ulike deloppgavene teller nødvendigvis ikke likt til totalpoeng.
+- Oppgaven skal leveres inn skriftlig i Canvas.
+- Filen skal ha navn med følgende struktur: kandidatnrstudent1_kandidatnrstudent2_utf1.pdf (eller docx)
+- Oppgaven skal leveres som word-fil eller pdf-fil. Filer som ikke er rendret vil behandlet som blank innlevering.
+- Koden skal leveres i et separat dokumentet (qmd-fil er ok) eller som appendiks til oppgaven.
+- Bruk av KI skal rapporteres i en appendiks til oppgaven. Sjekk at eventuelle lenker fungerer.
+- Du vil få mulighet å jobbe med oppgavene på et utfordringsseminar knyttet til temaet. Foreleseren på kurset vil være tilstede for å svare på spørsmål.
 
 **Førberedelser og støtte:**
 
