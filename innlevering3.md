@@ -16,8 +16,8 @@ Lykke til!
 
 Litteratur:
 
-- Barr. Kapittel 3, 9-11
-- Boeri og van Ours. Kapittel 2-3, 5 og 7
+- Barr. Kapittel 3, 4 og 9-11
+- Boeri og van Ours. Kapittel 2-3 og 7
 - NOU 2021:9. Kapittel 3 
 - [Forelesningsnotater tema 2](forelesninger.md#f_t2)
 - [Forelesningsnotater tema 3](forelesninger.md#f_t2)
