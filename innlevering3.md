@@ -6,7 +6,7 @@
 ### <span style="color:OrangeRed;"> Frist: 11. oktober kl 16.00 </span>
 
 Denne testen innholder spørsmål knyttet til **Tema 2 og Tema 3**. Hvert spørsmål har ett riktig svar, og tre feilsvar.
-Makspoeng på testen er 1 poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poeng blir beregnet etter regelen:  **$\frac{R}{T}\$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 2 desimaler.
+Makspoeng på testen er ett poeng. Din poeng på testen avhenger andel riktige svar og antall feilsvar. Poeng blir beregnet etter regelen:  **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poengene blir avrundet til to desimaler.
 
 Testen skal tas individuelt. 
 
