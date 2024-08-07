@@ -15,12 +15,12 @@ Alle innleveringer har frist på en fredag kl 16:00.
 
 | **Innlevering** | **Frist** |
 | ------------- |------- |
-| [Innlevering 1 - Flervalgtest](innlevering1.md) | <span style="color:OrangeRed;">6.  september 16:00</span>  |
+| [Innlevering 1 - Flervalgstest](innlevering1.md) | <span style="color:OrangeRed;">6.  september 16:00</span>  |
 | [Innlevering 2 - Utfordring 1](innlevering2.md) | <span style="color:OrangeRed;">20. september 16:00</span> |
-| [Innlevering 3 - Flervalgtest](innlevering3.md) | <span style="color:OrangeRed;">11.  oktober 16:00</span> |
+| [Innlevering 3 - Flervalgstest](innlevering3.md) | <span style="color:OrangeRed;">11.  oktober 16:00</span> |
 | [Innlevering 4 - Utfordring 2](innlevering4.md) | <span style="color:OrangeRed;">18. oktober 16:00</span> |
 | [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">1.   november 16:00</span> |
-| [Innlevering 6 - Flervalgtest](innlevering6.md) | <span style="color:OrangeRed;">15.  november 16:00</span>  |
+| [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">15.  november 16:00</span>  |
 
 ## Flervalgtester (innlevering 1, 3, og 6)
 Flervalgtestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
