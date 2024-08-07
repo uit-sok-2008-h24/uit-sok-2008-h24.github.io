@@ -45,10 +45,9 @@ Høy yrkesdeltakelse er en forutsetning for at den nordiske modellen skal oppret
 
 | Forelesning | Innhold | Pensum | 
 | ----------- |------- |----- | 
-| F2.1 | Arbeidstidsregulering | Boeri og van Ours. Kapittel 5|
-| F2.2 | Familiepolitikk | Boeri og van Ours. Kapittel 7 |
-| F2.3 | Utdanning | Barr. Kapittel 3 og 10 - 11 |
-| F2.4 | Helsetjenester | Barr. Kapittel 3, 4 og 9  |
+| F2.1 | Familiepolitikk | Boeri og van Ours. Kapittel 7 |
+| F2.2 | Utdanning | Barr. Kapittel 3 og 10 - 11 |
+| F2.3 | Helsetjenester | Barr. Kapittel 3, 4 og 9  |
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t2) (oppdateres fortløpende)
 
@@ -101,8 +100,8 @@ De norske inntektssikringsordningene har som mål å sikre en akseptabel inntekt
 | ----------- |------- |----- | 
 | F4.1 | Argumenter for offentlig finansiert trygd - del 1 | Barr. Kapittel 4 og 6|
 | F4.2 | Argumenter for offentlig finansiert trygd - del 2 | Barr. Kapittel 4 og 6 |
-| F4.3 | Problemer og løsninger - del 1 | Boeri og van Ours. Kapittel 12|
-| F4.4 | Problemer og løsninger - del 2 |Boeri og van Ours. Kapittel 12, Barr. Kapittel 6 og 9|
+| F4.3 | Problemer og løsninger| Boeri og van Ours. Kapittel 12|
+| F4.4 | Alderspensjon | Barr. Kapittel 3, 4 og 7|
 
 ### [Lenker til forelesningsnotater](forelesninger.md#f_t4) (oppdateres fortløpende)
 
