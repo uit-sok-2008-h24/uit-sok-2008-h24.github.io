@@ -22,19 +22,19 @@ Alle innleveringer har frist på en fredag kl 16:00.
 | [Innlevering 5 - Utfordring 3](innlevering5.md) | <span style="color:OrangeRed;">1.   november 16:00</span> |
 | [Innlevering 6 - Flervalgstest](innlevering6.md) | <span style="color:OrangeRed;">15.  november 16:00</span>  |
 
-## Flervalgtester (innlevering 1, 3, og 6)
-Flervalgtestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
+## Flervalgstester (innlevering 1, 3, og 6)
+Flervalgstestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
-Hvert flervalgstest vil finnes tilgjengelig i fem dager (mandag kl. 08:00- fredag k. 16:00). Du kan velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. **Du kan ta flervalgstesten bare én gang**. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter pr. spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
+Hver flervalgstest vil finnes tilgjengelig i fem dager (mandag kl. 08:00 - fredag k. 16:00). Du kan velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. **Du kan ta flervalgstesten bare én gang**. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter pr. spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
 
 ### Innlevering av flervalgstester
 Innleveringen skal skje individuelt. 
 Flervalgstestene vil enten bli gjennomført i Canvas.
 
 ### Evaluering av flervalgstester
-Poengen til flervalgtestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{(R-0.25\cdot F)}{T}\cdot 2$**, der $R$ er antall riktige svar, $F$ er feilsvar, og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til 1 desimal.
+Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{R}{T}\**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til to desimaler.
 
-Alle spørsmål på flervalgtestene på sok-2008 har fire svaralternativer. Sannsynligheten for å svare riktig av ren tilfeldighet er derved 25 %. Ligningen som blir brukt til å beregne poeng straffer derfor feilsvar med 25 prosent. Dersom du ikke vet hva riktig svar er på et spørsmål, er det altså bedre å ikke svare enn å gjette. 
+Alle spørsmål på flervalgtestene på sok-2008 har fire svaralternativer hvorav bare én er riktig.  
 
 ## Utfordringer (innlevering 2, 4, og 5)
 Hver utfordring vil ha flere deloppgaver. Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
@@ -132,24 +132,19 @@ Dersom du bruker kunstig intelligens for å løse oppgaven skal du oppgi hvilken
 Du velger selv i hvilket format du ønsker å lage oppgaven. Det er lov å bruke Word, eller andre standard ordbehandlingsprogrammer. Dersom du ønsker å skrive oppgaven i Quarto finner du støtte til dette [her](https://quarto.org/).
 
 #### Ligninger
-Det er mulig å skrive ligninger i Quarto ogde fleste ordbehandlingsprogrammer.  
+Det er mulig å skrive ligninger i Quarto og de fleste ordbehandlingsprogrammer.  
 
 #### Figurer og grafer
-Det går å lage figurer ved bruk av en rekke verktøy, f.eks RStudio og Python. Det er lov å tegne figurer i ved bruk av f.eks Word eller Power-point. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
-
+Det går an å lage figurer ved bruk av en rekke verktøy, f.eks RStudio og Python. Det er lov å tegne figurer i ved bruk av f.eks Word eller Power-point. Vår erfaring er at Power-point er bedre enn Word. Når du har laget en graf i Power-point kan du enten lagre denne som et bilde ved å høyre-klikke på den, eller kopiere den direkte og lime inn den som et bilde (lime inn spesial) i Word.
 
 #### Tabeller
-
-Det går å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel, Python og R. Det går å kopiere tabeller fra Excel og R og lime inn i Word. Hvis du er flink i f eks LaTeX så går det å skrive kode i R som lager TeX filer. 
-
+Det går an å lage tabeller ved bruk av en rekke verktøy, f.eks. Excel, Python og R. Det går å kopiere tabeller fra Excel og R og lime inn i Word. Hvis du er flink i f eks LaTeX så går det å skrive kode i R som lager TeX filer. 
 
 #### Referanser
 Hvis du bruker materiale utenfor pensum skal du bruke referanser, både i teksten, og i en referanseliste. Referanser i tekst skal inneholde etternavn på forfatter og år. Hvis det er flere enn to forfatter er det lov å bruke «et al». Det finnes to forskjellige måten å skrive referanser i tekst. Iblant henviser vi til en studie i teksten, f eks at Acemoglu et al (2001) fant at land en signifikant lenke mellom kolonial historie og nåværende økonomisk vekst. Et annet måte er å skrive at det ser ut å va en lenke mellom kolonial historie og nåværende økonomisk vekst (Acemoglu et al, 2001). Lengst ned i dokumentet skriver du en referanseliste. I Tabell 2 her nede ser du hvordan du refererer til ulike typer av skrevet materiale. 
  
  **Tabell 2.** Referanser
- 
- 
- | Type | Referanse |
+  | Type | Referanse |
 |-------| ----------- |
 | Vitenskapelige artikler og working-papers | Acemoglu, D., Johnson, S., and Robinsom, J. (2001). The Colonial Origins of Comparative Development: An Empirical Investigation. *American Economic Review*, 91(5), pp. 1369-1401 |
 | Bøker | Lucas, R. E. (1976). Econometric Policy Evaluation: A Critique, in Brunner, K., and Metzer, A (eds), *The Phillips Curve and Labor Markets*, Carnegie Rochester Conference Series, New York, North Holland, pp. 19-46 |
