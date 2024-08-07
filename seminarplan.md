@@ -1,16 +1,14 @@
 {% include navbar.html %}{% include top-box.html %}
 # SOK-2008 Den nordiske modellen    
 
-## Seminaroppgaver  
-
 * [Løsninger til oppgaver i Boeri og van Ours (NB: 2. utgave)](https://uit-sok-2008-h23.github.io/assets/Solutions_exercises_Boeri_van_Ours.pdf)
-  
+
+## Seminaroppgaver blir publisert fortløpende
+<!--
 ### Tema 1
 * [Seminar 1.1](https://uit-sok-2008-h23.github.io/assets/S1.1_LS.pdf)
 * [Seminar 1.2 - Løsning](https://htmlpreview.github.io/?https://github.com/uit-sok-2008-h23/uit-sok-2008-h23.github.io/blob/master/assets/seminar_1_2023.html)
   
-
-
 ### Tema 2
 * [Seminar 2.1](https://uit-sok-2008-h23.github.io/assets/Seminar_T2.1.pdf)
 * [Seminar 2.1 - Løsning](https://uit-sok-2008-h23.github.io/assets/Seminar_T2.1_losning.pdf)
@@ -29,3 +27,4 @@
 * [Seminar 4 - løsning](https://uit-sok-2008-h23.github.io/assets/seminar_4_løsning.html)
 * [Feedback-seminar utfordring 3](https://uit-sok-2008-h23.github.io/assets/Feedbackseminar_utf3%20.pdf)
 * [Matematisk og grafisk løsning til oppgave 3.1.1](https://uit-sok-2008-h23.github.io/assets/Utf3.1.1_sensorveiledning.html)
+-->
