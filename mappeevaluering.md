@@ -53,7 +53,7 @@ Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til
 ### Evaluering av utfordringer
 Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få halve og hele poeng på utfordringene. Hver innlevering kan gi maks 3 poeng.
 
-**NB: Hver enkel av de tre utfordringene består av flere deloppgaver. Envher av disse deloppgaver må besvares. Hvis en av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller feilaktig, er det fullt mulig å få null poeng på innleveringen.**
+**NB: Hver utfordring består av flere deloppgaver. Alle deloppgavene må besvares. Hvis minst én av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller feilaktig, er det fullt mulig å få null poeng på innleveringen.**
 
 **Tabell 2.** Regel for poengsetting av innleveringsoppgaver
 <table>
