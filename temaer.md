@@ -91,7 +91,7 @@ De norske inntektssikringsordningene har som mål å sikre en akseptabel inntekt
 
 ## Pensum
 ### Bøker og annen litteratur
-* Barr. Kapittel 4, 6 og 9
+* Barr. Kapittel 3, 4, 6 og 7
 * Boeri og van Ours. Kapittel 12 og 13
 
 ## Forelesninger
