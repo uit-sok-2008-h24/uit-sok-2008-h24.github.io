@@ -34,7 +34,7 @@ Flervalgstestene vil enten bli gjennomført i Canvas.
 ### Evaluering av flervalgstester
 Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til to desimaler.
 
-Alle spørsmål på flervalgtestene på sok-2008 har fire svaralternativer hvorav bare én er riktig.  
+Alle spørsmål på flervalgtestene på sok-2008 har fire svaralternativer hvorav bare ett er riktig.  
 
 ## Utfordringer (innlevering 2, 4, og 5)
 Hver utfordring vil ha flere deloppgaver. Noen av oppgavene er matematiske, andre er mer rettet mot diskusjon, og i noen av dem skal studenten bruke data og statistisk analyse. 
@@ -51,7 +51,7 @@ Utfodringene skal leveres i Canvas. Kode og redegjørelser for bruk av kunstig i
 Vi trenger ditt kandidatnummer for å gi en eventuell klagekommisjon tilgang til din oppgave. 
  
 ### Evaluering av utfordringer
-Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få halve og hele poeng på utfordringene. Hver innlevering kan gi maks 3 poeng.
+Utfordringene blir bedømt i henhold til regelen i Tabell 2. Det vil være mulig å få halve og hele poeng på utfordringene. Hver innlevering kan gi maks tre poeng.
 
 **NB: Hver utfordring består av flere deloppgaver. Alle deloppgavene må besvares. Hvis minst én av deloppgavene ikke er besvart, eller er besvart svært ufullstendig eller feilaktig, er det fullt mulig å få null poeng på innleveringen.**
 
