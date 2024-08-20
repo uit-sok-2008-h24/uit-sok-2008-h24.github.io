@@ -29,7 +29,7 @@ Hver flervalgstest vil finnes tilgjengelig i fem dager (mandag kl. 08:00 - freda
 
 ### Innlevering av flervalgstester
 Innleveringen skal skje individuelt. 
-Flervalgstestene vil enten bli gjennomført i Canvas.
+Flervalgstestene vil bli gjennomført i Canvas.
 
 ### Evaluering av flervalgstester
 Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til to desimaler.
