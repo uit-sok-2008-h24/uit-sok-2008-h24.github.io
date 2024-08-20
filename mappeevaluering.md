@@ -25,7 +25,7 @@ Alle innleveringer har frist på en fredag kl 16:00.
 ## Flervalgstester (innlevering 1, 3, og 6)
 Flervalgstestene vil innholde 15 - 25 spørsmål. Hvert spørsmål vil ha fire svarsalternativer, der et svarsalternativ er riktig. Spørsmål blir trukket tilfeldig. Med andre ord vil ulike studenter kunne få ulike spørsmål, og ulike svarsalternativer. 
 
-Hver flervalgstest vil finnes tilgjengelig i fem dager (mandag kl. 08:00 - fredag k. 16:00). Du kan velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. **Du kan ta flervalgstesten bare én gang**. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter pr. spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang.
+Hver flervalgstest vil finnes tilgjengelig i fem dager (mandag kl. 08:00 - fredag k. 16:00). Du kan velge når du tar testen. Når du vel har startet testen vil du ha begrenset med tid til å ta testen. **Du kan ta flervalgstesten bare én gang**. Tiden du har tilgjengelig vil avhenge antallet spørsmål i testen, men du kan forvente deg at du ikke har mer enn 3 minutter pr. spørsmål. Informasjon om tid til testen kommer noen dager før testen blir tilgjengelig. Det vil ikke være mulig å ta én test mer enn én gang: når du har startet den, så må du fullføre.
 
 ### Innlevering av flervalgstester
 Innleveringen skal skje individuelt. 
