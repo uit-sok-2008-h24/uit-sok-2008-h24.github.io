@@ -32,7 +32,7 @@ Innleveringen skal skje individuelt.
 Flervalgstestene vil bli gjennomført i Canvas.
 
 ### Evaluering av flervalgstester
-Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikkt blir blir poenget beregnet ved bruk av følgende regel: **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til to desimaler.
+Poengen til flervalgstestene er basert på prosent antall riktige svar. Mer spesifikt blir poenget beregnet ved bruk av følgende regel: **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poenget blir avrundet til to desimaler.
 
 Alle spørsmål på flervalgtestene på sok-2008 har fire svaralternativer hvorav bare ett er riktig.  
 
