@@ -11,9 +11,8 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 ## Forelesninger [Tema 1](temaer.md#tema1)<a name="f_t1"></a>
 * [F1:1 Den norske velferdsmodellen](https://uit-sok-2008-h24.github.io/assets/forelesning_2_studenter.html)
-  
+* [F1:2 Velferdsstaten og Politisk teori](https://uit-sok-2008-h24.github.io/assets/f2_kap_1_2_studenter.html)
 <!--
-* [F1:2 Velferdsstaten og Politisk teori](https://uit-sok-2008-h23.github.io/assets/f2_kap_1_2_studenter.html)
 * [F1.3 Introduksjon til arbeidsmarkedsøkonomi](https://uit-sok-2008-h23.github.io/assets/F1.3_IntrotilArbeidsmarkedsokonomi.pdf)
 
 ## Forelesninger [Tema 2](temaer.md#tema2)<a name="f_t2"></a>
