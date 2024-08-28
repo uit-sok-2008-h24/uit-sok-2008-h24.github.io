@@ -38,13 +38,13 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
 ## Forelesninger [Tema 5](temaer.md#tema4)<a name="f_t5"></a>
 
-* [Migrasjon, BO kap. 9](https://uit-sok-2008-h23.github.io/assets/F5.1_migrasjon.pdf)
-* [Oppslutning om velferdsstaten](https://uit-sok-2008-h23.github.io/assets/tillit_studenter.html)
-* [Velferdsstatens framtid](https://uit-sok-2008-h23.github.io/assets/framtid_2023_studenter.html)
+* [Migrasjon, BO kap. 9](https://uit-sok-2008-h24.github.io/assets/F5.1_migrasjon.pdf)
+* [Oppslutning om velferdsstaten](https://uit-sok-2008-h24.github.io/assets/tillit_studenter.html)
+* [Velferdsstatens framtid](https://uit-sok-2008-h24.github.io/assets/framtid_2024_studenter.html)
 
   
 ## Oppsummering og instruks til muntlig eksamen
 
-* [Instruks til muntlig eksamen](https://uit-sok-2008-h23.github.io/assets/Instruks_muntlig_eksamen2023.pdf)
+* [Instruks til muntlig eksamen](https://uit-sok-2008-h24.github.io/assets/Instruks_muntlig_eksamen2024.pdf)
 -->
 
