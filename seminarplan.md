@@ -7,4 +7,5 @@
 
 ### Tema 1
 * [Seminar 1.1](https://uit-sok-2008-h24.github.io/assets/seminar_T1_LS.html)
+* [Seminar 1.1 løsninger](https://uit-sok-2008-h24.github.io/assets/Seminar_T1_LS_løsning_studenter.html)
 
