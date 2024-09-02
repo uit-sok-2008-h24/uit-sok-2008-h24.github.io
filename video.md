@@ -15,8 +15,6 @@ Her finner du video-forelesninger lenket til Tema 1
 
 ## Videoer [Tema 2](Tema2.md)<a name="v_t2"></a>
 Her finner du video-forelesninger lenket til Tema 2
-* [v.2.1 - Bedriftens valg av arbeidere og arbeidstimer](https://youtu.be/BSHxDzhnISg)
-* [v.2.2 - Effekter av redusert standard arbeidstid](https://youtu.be/uVQ0fRR7LhA)
 * [v.2.3 - Subsidiert barnepass](https://youtu.be/QiadrXoINz4)
 * [v.2.4 - Bytteeffektivitet](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a93ae20e-e503-4efc-9ee3-aef600e3f9be)
 * [v.2.5 - Skatteinsidens](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9750c2d9-7d3f-4928-b662-aef600ebf013)
