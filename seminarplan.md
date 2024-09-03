@@ -9,3 +9,5 @@
 * [Seminar 1.1](https://uit-sok-2008-h24.github.io/assets/seminar_T1_LS.html)
 * [Seminar 1.1 løsninger](https://uit-sok-2008-h24.github.io/assets/Seminar_T1_LS_løsning_studenter.html)
 
+### Tema 2
+[Seminar 2.1 Familiepolitikk](https://uit-sok-2008-h24.github.io/assets/Seminar_T2.1.pdf)
