@@ -4,7 +4,7 @@
 
 # Flervalgstest 1
 
-### <span style="color:OrangeRed;"> Frist: 6. september kl 16:00 </span>
+### <span style="color:OrangeRed;"> Frist: 9. september kl 16:00 </span>
 
 Denne testen innholder spørsmål knyttet til **Tema 1**. Hvert spørsmål har ett riktig svar, og tre feilsvar.
 Makspoeng på testen er ett poeng. Din poeng på testen avhenger andel riktige svar. Poeng blir beregnet etter regelen:  **$\frac{R}{T}\$**, der $R$ er antall riktige svar og $T$ er totalt antall spørsmål i testen. Poengene blir avrundet til to desimaler.
@@ -23,5 +23,5 @@ Litteratur:
 - [Forelesningsnotater](forelesninger.md#f_t1)
 - [Videoer](video.md#v_t1)
 
- ## Lenke til flervalgstest (kommer)
+ ## Lenke til flervalgstest
  * [Flervalgstest 1](https://uit.instructure.com/courses/35391/quizzes/26707)
