@@ -24,3 +24,4 @@ Litteratur:
 - [Videoer](video.md#v_t1)
 
  ## Lenke til flervalgstest (kommer)
+ * [Flervalgstest 1](https://uit.instructure.com/courses/35391/quizzes/26707)
