@@ -27,7 +27,7 @@ Du velger selv når du ser på videoforelesningene, men vi anbefaler at du ser p
 | 34 |       |         | F - Intro til kurset ||  F1.1 - [Tema 1](temaer.md#tema1) <br> NOU 2011:7:ss. 45-58|
 | 35 |       | F1.2 <br> Barr. k. 1 - 2   | F1.3  <br> BO. k. 1 | NB! Selvstudier: [v1.3 - v1.6!](video.md#tema1)  |S1.1 |
 | 36 |       | F2.1 - [Tema 2](temaer.md#tema2) <br> BO. k. 7 | F2.2 <br> B. k. 3, 10-11  |    | S2.1 <br> Frist - [Flervalgstest 1](innlevering1.md) |
-| 37 |       | F2.3 <br> B. k. 3, 4, 9   | F2.4  <br> B. k. 3, 4, 9 | S2.2   | |
+| 37 |Frist - [Flervalgstest 1](innlevering1.md)| F2.3 <br> B. k. 3, 4, 9   | F2.4  <br> B. k. 3, 4, 9 | S2.2   | |
 | 38 |       |US - [Utfordring 1](innlevering2.md)| | | Frist - [Utfordring 1](innlevering2.md)|
 | 39 |       | F3.1 - [Tema 3](temaer.md#tema3) <br> BO. k.2| F3.2 <br> BO. k. 3| |FS - Utfordring 1|
 | 40 |       | F3.3 <br> NOU 2021:9   |         |       | S3.1 |
