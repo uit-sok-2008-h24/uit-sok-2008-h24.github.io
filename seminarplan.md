@@ -11,4 +11,4 @@
 
 ### Tema 2
 * [Seminar 2.1 Familiepolitikk](https://uit-sok-2008-h24.github.io/assets/Seminar_T2.1.pdf)
-* [Seminar 2.1 Familiepolitikk - løsninger](https://uit-sok-2008-h24.github.io/assets/Seminar T2.1_løsning.pdf)
+* [Seminar 2.1 Familiepolitikk - løsninger](https://uit-sok-2008-h24.github.io/assets/Seminar_ T2.1_løsning.pdf)
