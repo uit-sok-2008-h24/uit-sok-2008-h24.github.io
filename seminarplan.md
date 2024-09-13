@@ -13,3 +13,4 @@
 * [Seminar 2.1 Familiepolitikk](https://uit-sok-2008-h24.github.io/assets/Seminar_T2.1.pdf)
 * [Seminar 2.1 Familiepolitikk - løsninger](https://uit-sok-2008-h24.github.io/assets/Seminar_T2.1_løsning.pdf)
 * [Seminar 2.2 Utdanning og helsetjenester](https://uit-sok-2008-h24.github.io/assets/seminar_tema2_2.html)
+* [Seminar 2.2 Utdanning og helsetjenester - løsninger](https://uit-sok-2008-h24.github.io/assets/seminar_tema_2_2_solutions.html)
