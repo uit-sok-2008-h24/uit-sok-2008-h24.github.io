@@ -15,7 +15,7 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [F1.3 Introduksjon til arbeidsmarkedsøkonomi](https://uit-sok-2008-h24.github.io/assets/F1.3_IntrotilArbeidsmarkedsokonomi.pdf)
 
 ## Forelesninger [Tema 2](temaer.md#tema2)<a name="f_t2"></a>
-* [F2.1 Introduksjon til tema 2 og Familiepolitikk](https://uit-sok-2008-h24.github.io/assets/F2.2_familiepolitikk_24.pdf)
+* [F2.1 Introduksjon til tema 2 og Familiepolitikk](https://uit-sok-2008-h24.github.io/assets/F2.2_familiepolitikk_23_mikko.pdf)
 * [F2.2a Økonomisk teori og offentlige inngrep (kap.3)](https://uit-sok-2008-h24.github.io/assets/f4_kap_3_2024_studenter.html)
 * [F2.2b Utdanning og offentlige inngrep (kap. 10 og 11)](https://uit-sok-2008-h24.github.io/assets/kap_10_11_2024_studenter.html)
 * [F2.3 og F2.4 Helsetjenester og helsetjenesteforsikring](https://uit-sok-2008-h24.github.io/assets/kap_4_9_2024_studenter.html)
