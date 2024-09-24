@@ -19,3 +19,6 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 * [F2.2a Økonomisk teori og offentlige inngrep (kap.3)](https://uit-sok-2008-h24.github.io/assets/f4_kap_3_2024_studenter.html)
 * [F2.2b Utdanning og offentlige inngrep (kap. 10 og 11)](https://uit-sok-2008-h24.github.io/assets/kap_10_11_2024_studenter.html)
 * [F2.3 og F2.4 Helsetjenester og helsetjenesteforsikring](https://uit-sok-2008-h24.github.io/assets/kap_4_9_2024_studenter.html)
+
+## Forelesninger [Tema 3](temaer.md#tema3)<a name="f_t3"></a>
+* [F3.1 Introduksjon til Tema 3 og Minstelønn](https://uit-sok-2008-h24.github.io/assets/F.3.1_minstelønn_2024.pdf)
