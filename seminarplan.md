@@ -15,3 +15,8 @@
 * [Seminar 2.2 Utdanning og helsetjenester](https://uit-sok-2008-h24.github.io/assets/seminar_tema2_2.html)
 * [Seminar 2.2 Utdanning og helsetjenester - løsninger](https://uit-sok-2008-h24.github.io/assets/seminar_tema_2_2_solutions.html)
 * [Feedback-seminar utfordring 1](https://uit-sok-2008-h24.github.io/assets/feedbackseminar_1.pdf)
+
+### Tema 3
+* [Seminar 3.1]
+* [Hjelpedokument for å lage figurene til seminar 3.1 i R]
+* [Hjelpedokument for å lage figurene til seminar 3.1 i R (qmd-fil)]
