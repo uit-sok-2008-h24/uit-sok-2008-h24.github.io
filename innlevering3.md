@@ -28,4 +28,4 @@ Litteratur:
 
 
  ## Lenke til flervalgstest (kommer)
- * [Flervalgstest 2] (https://uit.instructure.com/courses/35391/quizzes)
+ * [Flervalgstest 2](https://uit.instructure.com/courses/35391/quizzes)
