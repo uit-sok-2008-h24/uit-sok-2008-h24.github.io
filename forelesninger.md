@@ -23,3 +23,6 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 ## Forelesninger [Tema 3](temaer.md#tema3)<a name="f_t3"></a>
 * [F3.1 Introduksjon til Tema 3 og Minstelønn](https://uit-sok-2008-h24.github.io/assets/F.3.1_minstelønn_2024.pdf)
 * [F3.2 & F3.3 Fagforeninger, kollektive forhandlinger og den nordiske modellen](https://uit-sok-2008-h24.github.io/assets/F3.2_fagforeninger_2024.pdf)
+
+ ## Forelesninger [Tema 4](temaer.md#tema4)<a name="f_t4"></a>
+ * [Introduksjon til Tema 4 og Sosialforsikring, del 1](https://uit-sok-2008-h24.github.io/assets/kap_6_studenter.html)
