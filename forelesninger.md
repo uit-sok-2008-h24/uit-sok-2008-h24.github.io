@@ -26,3 +26,4 @@ Her finner du lenker til alle forelesninger på kurset. Siden oppdateres fortlø
 
  ## Forelesninger [Tema 4](temaer.md#tema4)<a name="f_t4"></a>
  * [Introduksjon til Tema 4 og Sosialforsikring, del 1](https://uit-sok-2008-h24.github.io/assets/kap_6_studenter.html)
+ * [Sosialforsikring, del 2: disinsentiver](https://uit-sok-2008-h24.github.io/assets/kap_6_insentiv_studenter.html)
