@@ -46,7 +46,7 @@ a)  Studer teksten i sangen *Tredagern* av Gatas parlament. Beskriv først disin
 b)  Hvilket virkemiddel ville du som samfunnsøkonom foreslått for å redusere disinsentiveffekten i sangen? **Bruk økonomisk teori du har lært på dette kurset** til å svare på spørsmålene. Illustrer dine besvarelser grafisk. Husk å forklare økonomisk intuisjon.
 
 ### 3.2.2
-Bruk Eurostat-tabellene lfsi_abt_q (sykefravær) og lfsi_emp_a (sysselsetting) til å **analysere om dataene gir empirisk støtte for sammensetningseffekten**. Lag derfor figurer som viser korrelasjonen mellom sysseslettingsandelen og sykefraværsprosenten (bruk ujusterte tall) fordelt på kjønn. Bruk tallene for 2023. Diskuter dine funn.
+Bruk Eurostat-tabellene lfsi_abt_q (sykefravær) og lfsi_emp_a (sysselsetting) til å **analysere om dataene gir empirisk støtte for sammensetningseffekten**. Lag derfor figurer som viser korrelasjonen mellom sysseslettingsandelen og sykefraværsprosenten (bruk ujusterte tall) fordelt på kjønn. Bruk tallene for 2023. Forklar og diskuter dine funn.
 
 ### Evaluering av utfordringer
 Utfordringene blir bedømt i henhold til regelen i Tabell 1. Det vil være mulig å få halve og hele poeng på utfordringene. Hver innlevering kan gi maks tre poeng.
