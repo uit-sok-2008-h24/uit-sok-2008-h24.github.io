@@ -23,4 +23,4 @@
 * [Seminar 3.1 - løsning](https://uit-sok-2008-h24.github.io/assets/seminar_tema_3_løsning.html)
 
 ### Tema 4
-[Seminar 4](https://uit-sok-2008-h24.github.io/assets/seminar_4.html)
+* [Seminar 4](https://uit-sok-2008-h24.github.io/assets/seminar_4.html)
