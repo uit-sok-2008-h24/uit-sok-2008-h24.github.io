@@ -33,17 +33,18 @@ timer per uke. Hun kan maksimalt jobbe $60$ timer per uke
 stønad.
 
 Gå ut ifra at arbeidsmarkedet er «perfekt». 
-a) Utled Tone sin statiske reservasjonslønn i disse to situasjonene: 1) stønaden er lik null, 2) stønaden er lik $100$. Gjør rede for dine matematiske beregninger.
 
-b)  Gi økonomisk intuisjon til hvorfor reservasjonslønna er ulik i disse to situasjonene. Illustrer grafisk. Du finne støtte til hvordan du kan lage grafer i [dette dokumentet](https://uit-sok-2008-h24.github.io/assets/Utf3_theory_2024.R).
+a) Utled Tone sin statiske reservasjonslønn i disse to situasjonene: 1) stønaden er lik null, 2) stønaden er lik $100$. Gjør rede for dine matematiske beregninger.
+a)  Gi økonomisk intuisjon til hvorfor reservasjonslønna er ulik i disse to situasjonene. Illustrer grafisk. Du finne støtte til hvordan du kan lage grafer i [dette dokumentet](https://uit-sok-2008-h24.github.io/assets/Utf3_theory_2024.R).
 
 ### 3.1.2
 Arbeidsmarkedet er sjelden perfekt. Forklar hvilke effekter trygd har på
 arbeidsmarkedet da arbeidsmarkedet er ufullkomment.
 
 ### 3.2.1
+
 a)  Studer teksten i sangen *Tredagern* av Gatas parlament. Beskriv først disinsentivproblemet knyttet til sangen **ved hjelp av økonomisk teori du har lært på dette kurset**. Illustrer grafisk, og husk også å gjøre rede for antakelsene i modellen. Og ikke glem økonomisk intuisjon.
-b)  Hvilket virkemiddel ville du som samfunnsøkonom foreslått for å redusere disinsentiveffekten i sangen? **Bruk økonomisk teori du har lært på dette kurset** til å svare på spørsmålene. Illustrer dine besvarelser grafisk. Husk å forklare økonomisk intuisjon.
+a)  Hvilket virkemiddel ville du som samfunnsøkonom foreslått for å redusere disinsentiveffekten i sangen? **Bruk økonomisk teori du har lært på dette kurset** til å svare på spørsmålene. Illustrer dine besvarelser grafisk. Husk å forklare økonomisk intuisjon.
 
 ### 3.2.2
 Bruk Eurostat-tabellene lfsi_abt_q (sykefravær) og lfsi_emp_a (sysselsetting) til å **analysere om dataene gir empirisk støtte for sammensetningseffekten**. Lag derfor figurer som viser korrelasjonen mellom sysseslettingsandelen og sykefraværsprosenten (bruk ujusterte tall) fordelt på kjønn. Bruk tallene for 2023. Forklar og diskuter dine funn.
