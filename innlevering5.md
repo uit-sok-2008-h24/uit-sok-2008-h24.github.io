@@ -10,7 +10,7 @@
 - For å kvalifisere til poeng må dere ha prøvd å løse alle oppgavene. Innleveringer med blanke svar vil ikke bli evaluert.
 - De ulike deloppgavene teller nødvendigvis ikke likt til totalpoeng.
 - Oppgaven skal leveres inn skriftlig i Canvas.
-- **NB! Filen skal ha navn med følgende struktur: kandidatnrstudent1_utf1.pdf (eller docx)**
+- **NB! Filen skal ha navn med følgende struktur: kandidatnrstudent1_utf3.pdf (eller docx)**
 - Oppgaven skal leveres som word-fil eller pdf-fil. Filer som ikke er rendret vil behandlet som blank innlevering.
 - Koden skal leveres i et separat dokumentet (qmd-fil er ok) eller som appendiks til oppgaven.
 - Bruk av KI skal rapporteres i en appendiks til oppgaven. Sjekk at eventuelle lenker fungerer.
