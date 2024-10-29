@@ -25,3 +25,4 @@
 ### Tema 4
 * [Seminar 4](https://uit-sok-2008-h24.github.io/assets/seminar_4.html)
 * [Seminar 4 - løsning](https://uit-sok-2008-h24.github.io/assets/seminar_4_løsning.html)
+* [Feedback-seminar utfordring 2](https://uit-sok-2008-h24.github.io/assets/Feedbackseminar_utf2.pdf)
