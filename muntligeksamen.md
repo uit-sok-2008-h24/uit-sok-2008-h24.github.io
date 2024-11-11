@@ -68,7 +68,7 @@ Presentasjonen skal være muntlig. Det vil finnes en whiteboard og penner i romm
 
 Det er *ikke* lov å ha en presentasjon med lysbilder. 
 
-Det er lov å ha med maks **ett A4-ark** (NB! Håndskreven tekst bare på én side) med "huskeknagger" (et cheat sheet) som hjelper dere å huske hva dere ønsker å ta opp.
+Det er lov å ha med maks **ett A4-ark** (**NB! Håndskreven tekst bare på én side**) med "huskeknagger" (et cheat sheet) som hjelper dere å huske hva dere ønsker å ta opp.
 
 Det er *ikke* lov å lese direkte fra notater. Dere må snakke "fritt" på den muntlige eksamen.
 
