@@ -51,17 +51,17 @@ I den andre delen vil du få to tilfeldig trukne spørsmål. Spørsmålene blir 
 3.	Bruk økonomisk teori til å forklare de samfunnsøkonomiske effektivitetsargumentene bak offentlig finansiert utdanning.  Forklar også hvordan offentlig finansiert utdanning kan bidra til å nå målene i den nordiske modellen
 
 #### Tema 2. Et organisert arbeidsliv og den nordiske modellen
-1.	Beskriv rollen til fagforeninger og arbeidsgiverorganisasjoner som sentrale aktører i det organiserte arbeidslivet i den nordiske modellen. Hvordan fremmer de arbeidstakernes interesser og sikrer samtidig økonomisk effektivitet? Knytt diskusjonen din til økonomisk teori.
-2.	Bruk økonomisk teori til å forklare hvordan sterke fagforeninger kan påvirke bedrifters konkurranseevne og kostnader i den nordiske modellen. Hvordan kan dette representere en utfordring for den nordiske modellen, spesielt i en globalisert økonomi?
-3.	Organisasjonsgraden i Norden er relativt høy, men det er likevel ganske store forskjeller i organisasjonsgrad i ulike grupper. Gi eksempler på forskjeller i organisasjonsgrad i ulike grupper og bruk økonomisk teori til å forklare på hvilken måte kan dette være en utfordring for den nordiske modellen? 
+4.	Beskriv rollen til fagforeninger og arbeidsgiverorganisasjoner som sentrale aktører i det organiserte arbeidslivet i den nordiske modellen. Hvordan fremmer de arbeidstakernes interesser og sikrer samtidig økonomisk effektivitet? Knytt diskusjonen din til økonomisk teori.
+5.	Bruk økonomisk teori til å forklare hvordan sterke fagforeninger kan påvirke bedrifters konkurranseevne og kostnader i den nordiske modellen. Hvordan kan dette representere en utfordring for den nordiske modellen, spesielt i en globalisert økonomi?
+6.	Organisasjonsgraden i Norden er relativt høy, men det er likevel ganske store forskjeller i organisasjonsgrad i ulike grupper. Gi eksempler på forskjeller i organisasjonsgrad i ulike grupper og bruk økonomisk teori til å forklare på hvilken måte kan dette være en utfordring for den nordiske modellen? 
 
 #### Tema 3. Inntektssikring og den nordiske modellen
-1.	Forklar hvorfor arbeidsledighetstrygd er en sentral del av den nordiske modellen, og hvilke disinsentiveffekter som er knyttet til arbeidsledighetstrygd. Knytt diskusjonen din til samfunnsøkonomisk teori.
-2.	Forklar hvorfor sosialforsikring (inntektssikring) er en sentral del av den nordiske modellen. Bruk samfunnsøkonomisk teori til å forklare hvilke disinsentiveffekter som er knyttet til sosialforsikring.
+7.	Forklar hvorfor arbeidsledighetstrygd er en sentral del av den nordiske modellen, og hvilke disinsentiveffekter som er knyttet til arbeidsledighetstrygd. Knytt diskusjonen din til samfunnsøkonomisk teori.
+8.	Forklar hvorfor sosialforsikring (inntektssikring) er en sentral del av den nordiske modellen. Bruk samfunnsøkonomisk teori til å forklare hvilke disinsentiveffekter som er knyttet til sosialforsikring.
 
 #### Tema 4. Framtiden og den nordiske modellen
-1.	Forklar hvordan innvandring både kan være sentral for å øke bærekraften til den nordiske modellen, og skape utfordringer for bærekraften til modellen. Knytt diskusjonen din til safunnsøkonomisk teori. 
-2.	Forklar hvordan teknologisk utvikling både kan være sentral for å øke bærekraften til den nordiske modellen, og skape utfordringer for bærekraften til modellen. Knytt diskusjonen din til safunnsøkonomisk teori. 
+9.	Forklar hvordan innvandring både kan være sentral for å øke bærekraften til den nordiske modellen, og skape utfordringer for bærekraften til modellen. Knytt diskusjonen din til samfunnsøkonomisk teori. 
+10.	Forklar hvordan teknologisk utvikling både kan være sentral for å øke bærekraften til den nordiske modellen, og skape utfordringer for bærekraften til modellen. Knytt diskusjonen din til samfunnsøkonomisk teori. 
 
 ## Regler
 Presentasjonen skal være muntlig. Det vil finnes en whiteboard og penner i rommet slik at dere kan tegne på tavla om det er behov for dette. 
